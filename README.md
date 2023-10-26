@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)]
+![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
 <h1 align="center">Hi 👋, I'm Jorge Grajal</h1>
 <h3 align="center">A passionate Computer Engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
